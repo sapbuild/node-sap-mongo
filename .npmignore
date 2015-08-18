@@ -1,0 +1,5 @@
+doc/
+test/
+.npmignore
+.eslintrc
+gulpfile.js
