@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/node-sap-mongo.svg?style=flat-square)](http://travis-ci.org/sapbuild/node-sap-mongo)
+[![Version](https://img.shields.io/npm/v/node-sap-mongo.svg?style=flat-square)](https://npmjs.org/package/node-sap-mongo)
+[![Dependency Status](https://david-dm.org/sapbuild/node-sap-mongo.svg)](https://david-dm.org/sapbuild/node-sap-mongo)
+[![devDependency Status](https://david-dm.org/sapbuild/node-sap-mongo/dev-status.svg)](https://david-dm.org/sapbuild/node-sap-mongo#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/node-sap-mongo/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/node-sap-mongo?branch=master)
 node-sap-mongo
 ==============
 
