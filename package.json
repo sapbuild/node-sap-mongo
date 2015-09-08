@@ -1,6 +1,6 @@
 {
   "name": "node-sap-mongo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SAP MongoDB connectivity layer",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "licenses": [
     {
       "type": "Apache License, Version 2.0",
-      "url": "https://github.com/sapbuild/node-sap-mongo/blob/master/LICENSE.md"
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.md"
     }
   ],
   "dependencies": {
@@ -19,7 +19,7 @@
   "devDependencies": {
     "object-assign": "~2.0.0",
     "chai": "~1.10.0",
-	"coveralls": "^2.11.3",
+	  "coveralls": "^2.11.3",
     "del": "~1.1.1",
     "gulp": "~3.9.0",
     "gulp-concat": "~2.5.2",
