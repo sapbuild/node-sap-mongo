@@ -1,6 +1,6 @@
 {
   "name": "node-sap-mongo",
-  "version": "0.1.2",
+  "version": "0.3.0",
   "description": "SAP MongoDB connectivity layer",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "mongoose": "3.8.21",
-    "node-sap-common": "0.1.1"
+    "node-sap-common": "0.3.0"
   },
   "devDependencies": {
     "object-assign": "~2.0.0",
